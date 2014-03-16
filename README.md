@@ -1,0 +1,1 @@
+Simple android App to keep my colleagues in touch with all news related to our faculty.
